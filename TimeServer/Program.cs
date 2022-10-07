@@ -13,7 +13,7 @@ namespace TimeServer
     {
         static void Main(string[] args)
         {
-            TimeServer server = new TimeServer(IPAddress.Any, 9900);
+            TimeServer server = new TimeServer(IPAddress.Any, 19900);
             server.Start();
         }
     }
