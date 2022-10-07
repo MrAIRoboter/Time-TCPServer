@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeServer", "TimeServer\TimeServer.csproj", "{3576529E-00D7-4897-BD52-4E1E8087016A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3576529E-00D7-4897-BD52-4E1E8087016A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3576529E-00D7-4897-BD52-4E1E8087016A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3576529E-00D7-4897-BD52-4E1E8087016A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3576529E-00D7-4897-BD52-4E1E8087016A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0094AD56-A687-4F1E-8D81-8B8085A51EAD}
+	EndGlobalSection
+EndGlobal
